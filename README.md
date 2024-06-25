@@ -1,5 +1,4 @@
-## Hola! Soy Juan Ignacio Molina!  
-  
+## Hola! Soy Juan Ignacio Molina!
 
 <a href="https://github.com/JuaniMolina" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -13,46 +12,30 @@
 <a href="https://www.facebook.com/fuani.nacio" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-  
 
 
-
-### Glad to see you here!  
 He transformado mi experiencia como desarrollador independiente en una carrera a tiempo completo, especializándome en el desarrollo full-stack. Esto me permite crear aplicaciones y sitios web completos, desde la interfaz de usuario hasta la robusta funcionalidad backend.
 
 Me dedico a crear interfaces que elevan la experiencia de los usuarios en aplicaciones y sitios web. Disfruto especialmente diseñando interfaces intuitivas y visualmente atractivas que no solo cumplen con las expectativas estéticas, sino que también optimizan el rendimiento y la usabilidad. Mi enfoque se centra en combinar diseño creativo con funcionalidad efectiva, asegurándome de que cada interacción sea fluida y satisfactoria.
 
-Además de mi trabajo en el front-end, tengo una pasión por adquirir conocimiento a través de blogs donde exploro temas como diseño de interfaces, usabilidad, tendencias de UX/UI, optimización de rendimiento y nuevas tecnologías emergentes. Estos artículos no solo nutren mi conocimiento en la creación de experiencias de usuario memorables, sino que también abordan cómo la tecnología puede transformar la manera en que interactuamos con las aplicaciones digitales.  
-  
+Además de mi trabajo en el front-end, tengo una pasión por adquirir conocimiento a través de blogs donde exploro temas como diseño de interfaces, usabilidad, tendencias de UX/UI, optimización de rendimiento y nuevas tecnologías emergentes. Estos artículos no solo nutren mi conocimiento en la creación de experiencias de usuario memorables, sino que también abordan cómo la tecnología puede transformar la manera en que interactuamos con las aplicaciones digitales.
 
-<br/>  
+<br/>
 
+## Rapidfire
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+-   🏢Mi último trabajo fue en [Consorcify](https://github.com/samuel20468/Consorcify)
 
-- 🏢Mi último trabajo fue en [Consorcify](https://github.com/samuel20468/Consorcify)  
-  
+-   🌱 Actualmente estoy por recibirme en el bootcamp de [Henry](https://www.soyhenry.com/webfullstack)
 
-- 🌱 Actualmente estoy por recibirme en el bootcamp de [Henry](https://www.soyhenry.com/webfullstack)  
-  
+-   ❓ Puedes consultarme sobre JavaScript, React y frameworks de Front-end.
 
-- ❓ Puedes consultarme sobre JavaScript, React y frameworks de Front-end.  
-  
+-   ⚡ dato curioso: Siempre estoy viendo interfaces de usuario
 
-- ⚡ dato curioso: Siempre estoy viendo interfaces de usuario  
+<br/>
 
+## Languages and Tools
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -77,12 +60,12 @@ Además de mi trabajo en el front-end, tengo una pasión por adquirir conocimien
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-</div>  
+</div>
 
-<br/>  
+<br/>
 
+## Github Stats
 
-## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JuaniMolina&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -91,21 +74,18 @@ Además de mi trabajo en el front-end, tengo una pasión por adquirir conocimien
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaniMolina&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
-  
+<br/>
 
-<br/>  
+![Profile views counter](https://komarev.com/ghpvc/?username=JuaniMolina&&style=flat-square)
 
-![Profile views counter](https://komarev.com/ghpvc/?username=JuaniMolina&&style=flat-square)  
-  
-
-<br/>  
-
+<br/>
 
 <br />
 
-----
+---
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
